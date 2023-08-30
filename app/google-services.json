@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "279451397227",
+    "project_id": "translating-tounge",
+    "storage_bucket": "translating-tounge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279451397227:android:b6e13690753566110d152e",
+        "android_client_info": {
+          "package_name": "com.example.translatingtongue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279451397227-kske951voqll2do2u7f29fthjpgsf0b4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoepW7pNjSvMklapRskTHYZxO2OGJLor0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279451397227-kske951voqll2do2u7f29fthjpgsf0b4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
